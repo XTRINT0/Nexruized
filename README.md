@@ -1,2 +1,6 @@
-# Nexruized
-Custom UI Library that I made because I was bored.
+### Getting the UI Module
+```lua
+local Nextruized = loadstring(game:HttpsGet(''))()
+```
+
+### Create the Tab
