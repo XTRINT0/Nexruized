@@ -6,7 +6,7 @@ local Nextruized = loadstring(game:HttpsGet('https://raw.githubusercontent.com/X
 ### Creating the Window
 
 ```lua
-local Window = Nextruis:CreateWindow(
+local Window = Nextruized:CreateWindow(
 ["PrefaceToggle"] = true;
 ["PrefaceSentance"] = "Nextruiz UI Library";
 )
